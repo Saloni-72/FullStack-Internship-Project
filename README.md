@@ -11,6 +11,7 @@ This is a Django-based Quiz website where users can take quizzes.
 * Backend: Django (Python)
 * Database: SQLite
 * Frontend: HTML/CSS/JAVASCRIPT
+* Responsive design: Bootstrap
 * Icon: Font Awesome
 
 ## How to Run
